@@ -29,7 +29,7 @@
                         <i class="formulario__validacion-estado fas fa-times-circle"></i>
                     </div>
                     <p class="formulario__input-error">
-                        El documento tiene que ser de 7 a 11 dígitos y solo puede contener numeros.</p>
+                        El documento tiene que ser de  a 11 dígitos y solo puede contener numeros.</p>
                     </div>
             </div>
 
